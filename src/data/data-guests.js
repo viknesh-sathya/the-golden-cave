@@ -3,17 +3,17 @@
 export const guests = [
   {
     // id: 1000,
-    fullName: "Jonas Schmedtmann",
-    email: "hello@jonas.io",
-    nationality: "Portugal",
-    nationalID: "3525436345",
-    countryFlag: "https://flagcdn.com/pt.svg",
+    fullName: "Viknesh",
+    email: "viknesh@gmail.com",
+    nationality: "Indian",
+    nationalID: "19283728",
+    countryFlag: "https://flagcdn.com/in.svg",
   },
   {
-    fullName: "Viknesh",
-    email: "johnsmith@test.eu",
+    fullName: "Balaji",
+    email: "bala@test.com",
     nationality: "Indian",
-    nationalID: "4534593454",
+    nationalID: "23783983",
     countryFlag: "https://flagcdn.com/in.svg",
   },
   {

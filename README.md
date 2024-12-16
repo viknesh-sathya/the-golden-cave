@@ -1,13 +1,8 @@
-# React + Vite
+# The Golden Cave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a hotel room management application built using ReactJS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-# Extensions
+## Extensions
 
 1. vscode-styled-components. (Helps to write normal css in componets)
 2. Tailwind CSS IntelliSense.
@@ -16,22 +11,22 @@ Currently, two official plugins are available:
 5. Color Highlight.
 6. Auto Rename Tag.
 
-# Note
+## Note
 
 GlobalStyles cannot have children so it should be placed as a sibiling( check App.js)
 
 We need to also install date-fns lib for manipulating the dates refer the utility file
 
-# hooks
+## hooks
 
 1. const { register, handleSubmit } = useForm();
 
-# React Query hooks
+## React Query hooks
 
 1. useQuery()
 2. useMutation() used to delete or mutate
 
-# npm i
+## npm i
 
 1.  npm i react-hot-toast
 2.  npm i date-fns
